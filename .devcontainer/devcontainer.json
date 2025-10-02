@@ -11,7 +11,7 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "pkief.material-icon-theme",
-        "ms-azuretools.vscode-docker"
+        "styled-components.vscode-styled-components"
     ],
     "postCreateCommand": "npm install"
 }
